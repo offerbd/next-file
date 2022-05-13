@@ -39,14 +39,14 @@ body{
 
 .left h1{
     font-family: "facebook letter faces";
-    font-size: 60px;
+    font-size: 40px;
     color: #1877f2;
     justify-content: center;
     
 }
 
 .left p{
-    font-size: 27px;
+    font-size: 20px;
     color:#1c1e21;
     height: 200px;
     font-family: "Roboto Condensed", sans-serif;
